@@ -1,0 +1,13 @@
+﻿{
+  "Id": "MptQQFJjQEC43DQlUTcq_g",
+  "Reference": "JkeOYRFEOkqqse-pfKf9dQ/MptQQFJjQEC43DQlUTcq_g",
+  "ParentRef": "JkeOYRFEOkqqse-pfKf9dQ/hoCKJ0VD-UOemfVxxRV3yg",
+  "Name": "Chrome: UiBank",
+  "Type": "Screen",
+  "Created": "2023-06-11T09:48:55.2502777Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=23.4.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-06-11T09:48:55.2502777Z"
+}
